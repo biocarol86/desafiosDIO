@@ -1,5 +1,5 @@
 # desafiosDIO 📚
-Desafios da Digital Innovation One em Java (nível iniciante)
+Desafios da Digital Innovation One em Java (nível iniciante):
 
 🔢 1- Crie um programa que leia um número e mostre os números pares até esse número, inclusive ele mesmo.
 
